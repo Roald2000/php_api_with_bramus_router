@@ -1,0 +1,17 @@
+{
+    "name": "jan2x/php_api_with_bramus_router",
+    "autoload": {
+        "psr-4": {
+            "Jan2x\\PhpApiWithBramusRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roald2000",
+            "email": "roalddelacruz2000@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6"
+    }
+}
